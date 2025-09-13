@@ -6,6 +6,7 @@ void main(){
   // Create a Manager object with name, department, and salary
   Manager john = Manager('John', 'Manager', 90000);
   john.infodisplay();
+
   print(" ");
 
   // Create a Developer object with name, programming language, and salary
